@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
-import styles from "./About.module.css";
-import { getImageUrl } from "../../utils";
+import styles from './About.module.css';
+import { getImageUrl } from '../../utils';
 
 export const About = () => {
   return (
@@ -9,23 +9,24 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl('about/aboutImage.png')}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl('about/cursorIcon.png')} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Full-Stack</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                Tenacious full-stack graduate. I’ve always pushed myself to the
+                limit, and when I decided to change my path, I went all in,
+                constantly learning and mastering new technologies.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl('about/serverIcon.png')} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
@@ -35,12 +36,13 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl('about/cursorIcon.png')} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Relentless Learner & Problem Solver</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                With years of experience in customer-focused roles, I blend
+                interpersonal and technical skills to collaborate effectively
+                and build user-centered solutions.
               </p>
             </div>
           </li>
