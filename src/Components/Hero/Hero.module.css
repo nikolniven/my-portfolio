@@ -35,7 +35,7 @@
 
 .description {
   font-size: 30px;
-  font-family: var(--font-roboto);
+  font-family: var(--font-roboto), 'Roboto';
   margin-bottom: 52px;
 }
 

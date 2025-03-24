@@ -11,7 +11,8 @@ export const Hero = () => {
         <p className={styles.description}>
           Solid foundation with hands-on experience in the MERN stack Pssionate
           about building scalable applications while constantly pursuing new
-          skills and technologies.<br></br> Reach out if you'd like to learn more!
+          skills and technologies.<br></br> Reach out if you'd like to learn
+          more!
         </p>
         <a href="mailto:ntopalusi@gmail.com" className={styles.contactBtn}>
           Contact Me

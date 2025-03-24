@@ -1,4 +1,4 @@
-@import "../../vars.css";
+@import '../../vars.css';
 
 .container {
   color: var(--color-text);
@@ -51,7 +51,7 @@
 }
 
 .skill p {
-  font-size: 25px;
+  font-size: 15px;
   font-family: var(--font-roboto);
   font-weight: 500;
 }
@@ -76,6 +76,7 @@
 
 .historyItem img {
   width: 50px;
+  border-radius: 4px;
 }
 
 .historyItemDetails {
@@ -89,7 +90,8 @@
 
 .historyItemDetails p {
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 100;
+  color: rgb(171, 193, 224);
 }
 
 .historyItemDetails ul {
