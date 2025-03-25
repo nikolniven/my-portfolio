@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": " Desktop Journal",
+    "imageSrc": "projects/DesktopJournal-voice.png",
+    "description": "Built with the MERN stack, featuring secure user registration and password hashing to ensure privacy.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://desktop-journal-client.up.railway.app/",
+    "source": "https://github.com/nikolniven/DesktopJournal"
   },
   {
     "title": "Project B",

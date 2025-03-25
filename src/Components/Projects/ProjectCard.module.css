@@ -1,4 +1,4 @@
-@import "../../vars.css";
+@import '../../vars.css';
 
 .container {
   display: flex;
@@ -12,6 +12,7 @@
 
 .image {
   margin-bottom: 26px;
+  border-radius: 8px;
 }
 
 .title {
