@@ -3,17 +3,17 @@
     "title": " Desktop Journal",
     "imageSrc": "projects/DesktopJournal-voice.png",
     "description": "Built with the MERN stack, featuring secure user registration and password hashing to ensure privacy.",
-    "skills": ["React", "Express", "Node", "MongoDB"],
+    "skills": ["React", "Express", "Node", "MongoDb"],
     "demo": "https://desktop-journal-client.up.railway.app/",
     "source": "https://github.com/nikolniven/DesktopJournal"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Recipe App",
+    "imageSrc": "projects/Recipe-App.jpg",
+    "description": "This project was developed to gain hands-on experience with making API calls and working with external data sources.",
+    "skills": ["React", "Express", "Node", "Tailwind"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/nikolniven/recipeApp"
   },
   {
     "title": "Project C",
