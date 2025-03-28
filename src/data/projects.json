@@ -12,15 +12,15 @@
     "imageSrc": "projects/Recipe-App.jpg",
     "description": "This project was developed to gain hands-on experience with making API calls and working with external data sources.",
     "skills": ["React", "Express", "Node", "Tailwind"],
-    "demo": "https://www.example.com",
+
     "source": "https://github.com/nikolniven/recipeApp"
   },
   {
     "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "imageSrc": "projects/todo-list.jpg",
+    "description": "A project to practice TypeScript basics and reinforce React data flow concepts.",
+    "skills": ["React", "TypeScript"],
+
+    "source": "https://github.com/nikolniven/typescript-todo"
   }
 ]
