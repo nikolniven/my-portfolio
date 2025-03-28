@@ -9,10 +9,11 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Nikol</h1>
         <p className={styles.description}>
-          Solid foundation with hands-on experience in the MERN stack Pssionate
-          about building scalable applications while constantly pursuing new
-          skills and technologies.<br></br> Reach out if you'd like to learn
-          more!
+          After completing a web development bootcamp, I discovered my passion
+          for tech. With a background in customer-oriented roles, I bring strong
+          communication and teamwork skills. I’m always eager to learn and grow,
+          ready to contribute effectively in collaborative environments.
+          <br></br> Reach out if you'd like to learn more!
         </p>
         <a href="mailto:ntopalusi@gmail.com" className={styles.contactBtn}>
           Contact Me

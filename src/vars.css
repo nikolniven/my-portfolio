@@ -1,9 +1,9 @@
 :root {
-  --color-text: #fff;
-  --color-primary: #576cbc;
-  --color-secondary: #19376d;
-  --color-dark: #0b2447;
-  --color-bg: #04152d;
+  --color-text: #ffffff;
+  --color-primary: #9d84b7; /* Soft lilac */
+  --color-secondary: #7e57c2; /* Medium purple */
+  --color-dark: #4a2e85; /* Deep purple */
+  --color-bg: #2a1b50; /* Dark purple background */
 
   /* fonts*/
   --font-roboto: 'Roboto';
