@@ -5,7 +5,7 @@
     "startDate": "June 2023",
     "endDate": "Dec 2024",
     "experiences": [
-      "Completed an intensive self-learning period in web development, focusing on MERN stack.",
+      "Developed full-stack applications while mastering the MERN stack through intensive self-learning.",
       "Achieved B2-level German through structured study and immersion."
     ],
     "imageSrc": "history/learning2.svg"
@@ -17,7 +17,8 @@
     "startDate": "May, 2022",
     "endDate": "May, 2023",
     "experiences": [
-      "Provided technical support for UK/IE market using Salesforce."
+      "Diagnosed and resolved technical issues for UK/IE customers, ensuring seamless payment processing.",
+      "Managed support cases efficiently using Salesforce, improving resolution times."
     ],
     "imageSrc": "history/sumup.png"
   },
@@ -27,7 +28,8 @@
     "startDate": "July, 2021",
     "endDate": "May, 2022",
     "experiences": [
-      "Delivered technical support and guided users through product solutions."
+      "Guided customers through troubleshooting steps, enhancing user satisfaction.",
+      "Provided product support and technical assistance, streamlining issue resolution."
     ],
     "imageSrc": "history/techsupporticon.jpg"
   },
@@ -37,7 +39,8 @@
     "startDate": "Jan, 2016",
     "endDate": "May, 2019",
     "experiences": [
-      "Managed front desk operations, calls, and billing inquiries."
+      "Managed front desk operations, handling inquiries, reservations, and billing.",
+      "Improved guest experiences by streamlining check-in and customer service processes."
     ],
     "imageSrc": "history/hotel.webp"
   }

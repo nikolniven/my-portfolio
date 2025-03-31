@@ -22,9 +22,11 @@ export const Hero = () => {
         src={getImageUrl('hero/Nikol_005-preview-3.jpg')}
         alt="Hero image of me"
         className={styles.heroImg}
-      />
+      />{' '}
       <div className={styles.topBlur} />
-      <div className={styles.bottomBlur} />
+      <div className={styles.bottomBlurContainer}>
+        <div className={styles.bottomBlur} />
+      </div>
     </section>
   );
 };
