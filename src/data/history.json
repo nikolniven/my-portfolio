@@ -1,12 +1,23 @@
 [
   {
+    "role": "Career Transition & Learning",
+    "organisation": "Self-Directed, IronHack ",
+    "startDate": "June 2023",
+    "endDate": "Dec 2024",
+    "experiences": [
+      "Completed an intensive self-learning period in web development, focusing on MERN stack.",
+      "Achieved B2-level German through structured study and immersion."
+    ],
+    "imageSrc": "history/learning2.svg"
+  },
+
+  {
     "role": "CS Expert UK/IE",
     "organisation": "SumUp",
     "startDate": "May, 2022",
     "endDate": "May, 2023",
     "experiences": [
-      "Handled logistics support for UK/IE clients using CRM tools.",
-      "Spent a year learning German (B2) and advancing in web technologies."
+      "Provided technical support for UK/IE clients using Salesforce."
     ],
     "imageSrc": "history/sumup.png"
   },
@@ -16,8 +27,7 @@
     "startDate": "July, 2021",
     "endDate": "May, 2022",
     "experiences": [
-      "Resolved customer issues through troubleshooting and CRM systems.",
-      "Began self-learning web technologies, leading to structured study."
+      "Delivered technical support and guided users through product solutions."
     ],
     "imageSrc": "history/techsupporticon.jpg"
   },
@@ -27,8 +37,7 @@
     "startDate": "Jan, 2016",
     "endDate": "May, 2019",
     "experiences": [
-      "Managed front desk operations, calls, and billing inquiries.",
-      "Developed problem-solving skills, later applied to tech learning."
+      "Managed front desk operations, calls, and billing inquiries."
     ],
     "imageSrc": "history/hotel.webp"
   }

@@ -10,10 +10,12 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Nikol</h1>
         <p className={styles.description}>
           After completing a web development bootcamp, I discovered my passion
-          for tech. With a background in customer-oriented roles, I bring strong
-          communication and teamwork skills. I’m always eager to learn and grow,
-          ready to contribute effectively in collaborative environments.
-          <br></br> Reach out if you'd like to learn more!
+          for tech. Problem-solving is my strength, it’s not just a skill but a
+          mindset. <br></br>My background, built on years of self-sufficiency
+          and hard work, reflects my adaptability and determination. I’m always
+          eager to learn and grow, ready to contribute effectively in
+          collaborative environments.
+          <br></br> Reach out to connect!
         </p>
         <a href="mailto:ntopalusi@gmail.com" className={styles.contactBtn}>
           Contact Me

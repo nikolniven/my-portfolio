@@ -38,6 +38,7 @@
   font-family: var(--font-roboto), 'Roboto';
   margin-bottom: 52px;
   margin-right: 60px;
+  line-height: 1.5;
 
   @media (max-width: 700px) {
     margin-right: 0;
@@ -61,7 +62,7 @@
   z-index: 1;
   border-radius: 30%;
   animation-name: floating;
-  animation-duration: 3s;
+  animation-duration: 3.5s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
 }
@@ -71,7 +72,7 @@
     transform: translate(0, 0px);
   }
   50% {
-    transform: translate(0, 10px);
+    transform: translate(0, 8px);
   }
   100% {
     transform: translate(0, -0px);
