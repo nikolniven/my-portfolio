@@ -17,9 +17,6 @@ export const Hero = () => {
           collaborative environments.
           <br></br> Reach out to connect!
         </p>
-        <a href="mailto:ntopalusi@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
       </div>
       <img
         src={getImageUrl('hero/Nikol_005-preview-3.jpg')}
