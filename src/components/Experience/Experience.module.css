@@ -15,6 +15,8 @@
   letter-spacing: 1.75px;
   text-transform: uppercase;
   text-align: center;
+  z-index: 10;
+  position: relative;
 }
 
 .content {

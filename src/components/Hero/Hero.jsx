@@ -9,12 +9,12 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Nikol</h1>
         <p className={styles.description}>
-          After completing a web development bootcamp, I discovered my passion
-          for tech. Problem-solving is my strength, it’s not just a skill but a
-          mindset. <br></br>My background, built on years of self-sufficiency
-          and hard work, reflects my adaptability and determination. I’m always
-          eager to learn and grow, ready to contribute effectively in
-          collaborative environments.
+          After completing a web development bootcamp, my passion for tech
+          deepened even further. Problem-solving is my strength, it’s not just a
+          skill but a mindset. <br></br>My background, built on years of
+          self-sufficiency and hard work, reflects my adaptability and
+          determination. I’m always eager to learn and grow, ready to contribute
+          effectively in collaborative environments.
           <br></br> Reach out to connect!
         </p>
       </div>
