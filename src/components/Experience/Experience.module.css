@@ -3,8 +3,9 @@
 .container {
   color: var(--color-text);
   margin-top: 79px;
-  margin-left: 10%;
-  margin-right: 0%;
+  /* margin-left: 10%;
+  margin-right: 0%; */
+  margin: 10%;
   z-index: 1;
 }
 

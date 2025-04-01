@@ -5,10 +5,10 @@
   background-color: rgba(40, 76, 117, 0.452);
   border-radius: 15px;
   padding: 73px;
-  margin-top: 129px;
+  margin-top: 119px;
   z-index: 1;
-  margin-left: 10;
-  margin-right: 10%;
+  margin: 15%;
+  /* margin-right: 150px; */
 }
 
 .title {
